@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m A JAHNAVI. I am an undergraduate student.
-- 👀 I’m interested in learning web dev,android dev, ML .
+- 👀 I’m interested in learning web dev,android dev and ML .
 - 📫 How to reach me : ajahnavi2703@gmail.com
 
 <!---
